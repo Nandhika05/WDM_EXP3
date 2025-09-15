@@ -155,4 +155,4 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 ### Result:
 
-Thus the output is verified successfully.
+Thus the implementation of the GSP algorithm in python has been successfully executed.
